@@ -1,0 +1,128 @@
+ body {
+   font-family: Arial, sans-serif;
+   background-color: #f2f2f2;
+   margin: 0;
+   padding: 0;
+  }
+
+  .container {
+   max-width: 1200px;
+   margin: 0 auto;
+   padding: 20px;
+  }
+
+  h1 {
+   text-align: center;
+   color: #333;
+  }
+
+  p {
+   margin-bottom: 10px;
+  }
+
+  .article {
+   background-color: #fff;
+   border-radius: 5px;
+   padding: 20px;
+   margin-bottom: 20px;
+  }
+
+  .img-container {
+   text-align: center;
+   margin-bottom: 20px;
+  }
+
+  .img-container img {
+   max-width: 100%;
+   height: auto;
+  }
+ </style>
+</head>
+<body>
+ <div class="container">
+  <h1>Перспективы развития компьютерной техники</h1>
+  <div class="article">
+   <div class="img-container">
+    <img src="optical_computer.jpg" alt="Оптический компьютер">
+   </div>
+   <p>Электронная вычислительная машина (сокращённо ЭВМ) — комплекс технических, аппаратных и программных средств, предназначенных для автоматической обработки информации, вычислений, автоматического управления.</p>
+   <p>Оптические компьютеры обладают высокой скоростью обработки данных благодаря тому, что оптическое излучение передает информацию с очень высокой скоростью.</p>
+   <p>Кроме того, использование оптики в компьютерах позволяет существенно увеличить производительность и энергоэффективность систем.</p>
+   <p>Оптические компьютеры также имеют потенциал для разработки более мощных и компактных устройств, поскольку оптические элементы меньше и быстрее электронных.</p>
+   <p>Однако, разработка оптических компьютеров до сих пор является сложной задачей, и они пока не являются широко распространенными в индустрии.</p>
+  </div>
+ </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html>
+<head>
+ <title>Новинки компьютерной техники и новейшие разработки</title>
+ <style>
+  body {
+   font-family: Arial, sans-serif;
+   margin: 0;
+   padding: 0;
+  }
+
+  header {
+   background-color: #F8F8FF;
+   color: #fff;
+   padding: 20px;
+  }
+  h1 {
+   margin: 0;
+    animation: myAnim 5s linear alternate infinite;
+  }
+@keyframes myAnim {
+ from {
+   margin-left: -100px;
+ }
+ to {
+   margin-left: 500px;
+ }
+}
+  nav {
+   background-color: #555;
+   padding: 10px;
+  }
+
+  nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+  }
+
+  nav ul li {
+   display: inline-block;
+   margin-right: 10px;
+  }
+
+  nav ul li a {
+   color: #fff;
+   text-decoration: none;
+   padding: 5px 10px;
+  }
+
+  main {
+   margin: 20px;
+  }
+
+  section {
+   margin-bottom: 20px;
+  }
+
+  h2 {
+   color: #333;
+  }
+
+  p {
+   margin: 0;
+  }
+
+  footer {
+   background-color: #333;
+   color: #fff;
+   padding: 20px;
+   text-align: center;
+  }
